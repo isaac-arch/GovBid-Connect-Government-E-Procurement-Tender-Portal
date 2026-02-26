@@ -1,0 +1,31 @@
+govbid/
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── includes/
+│   ├── header.php
+│   └── footer.php
+│
+├── data/
+│   ├── tenders.txt
+│   ├── contractors.txt
+│   └── bids.txt
+│
+├── uploads/
+│
+├── index.php
+├── about.php
+├── tenders.php
+├── register.php
+├── submit-bid.php
+├── transparency.php
+├── dashboard.php
+├── contact.php
+├── faq.php
+├── privacy.php
+├── admin.php
+└── README.txt
