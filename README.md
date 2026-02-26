@@ -9,9 +9,9 @@ HOW TO RUN
 
 C:\xampp\htdocs\
 
-4. Ensure data folder exists
-5. Ensure tenders.txt, contractors.txt, bids.txt exist
-6. Ensure uploads folder exists
+4. Ensure "includes"  folder exists
+5. place header.php and footer.php inside
+6. Ensure css folder exist
 
 7. Open browser:
 
